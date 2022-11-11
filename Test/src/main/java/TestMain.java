@@ -8,4 +8,9 @@ public class TestMain {
         System.out.println("这是一句话" + "，现在这句话被修改了");
 
     }
+
+    public String changeResult(){
+        String word = "现在又添加了一句话";
+        return word;
+    }
 }
